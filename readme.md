@@ -30,8 +30,7 @@ instructblip-flan-t5-xl 모델의 경우 language_model 로 flan-t5-xl 을 사�
 |0,1,2,3,4,5,6,7|1|빨간색|
 |0,3,6,9,12,15,18,21|1|하늘색|
 
-
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/9ce44e9c-d702-4d0b-8417-454cf54cdb77" />
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/9c0f6b33-9a4b-4ca8-b2b0-3caf89f839d4" />
 
 # How to use 
 
