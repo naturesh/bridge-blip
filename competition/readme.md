@@ -2,4 +2,4 @@
 
 ex) bridge-blip/competition/test.csv
 
-<img width="404" height="227" alt="image" src="https://github.com/user-attachments/assets/dc4e5ca9-6dbd-4339-95e6-64899aa96b09" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/3fee517f-ae97-49bf-8f4d-382dc79dcade" />
